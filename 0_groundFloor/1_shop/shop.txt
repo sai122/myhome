@@ -1,0 +1,10 @@
+water
+aircoolers / fans
+weighing machines
+counting machines
+multiple socket boards
+CCTV
+
+
+optional - 
+printer - billing system
